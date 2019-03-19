@@ -1,0 +1,50 @@
+{
+  "name": "foodorderingapp-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.0",
+    "axios": "^0.18.0",
+    "bootstrap-daterangepicker": "^3.0.3",
+    "emailjs-com": "2.3.2",
+    "file-saver": "^2.0.0",
+    "firebase": "^5.8.3",
+    "jquery": "^3.3.1",
+    "jspdf": "^1.5.3",
+    "moment": "^2.23.0",
+    "moment-timezone": "^0.5.23",
+    "mui-datatables": "^2.0.0-beta-9",
+    "prop-types": "^15.6.2",
+    "react": "^16.8.4",
+    "react-alert": "^4.0.4",
+    "react-alert-template-basic": "^1.0.0",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-datatable": "^1.0.0",
+    "react-bootstrap-daterangepicker": "^4.1.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-countdown-now": "^2.1.0",
+    "react-data-components": "^1.2.0",
+    "react-desktop-notification": "^1.0.9",
+    "react-dev-utils": "^7.0.1",
+    "react-dom": "^16.8.4",
+    "react-favicon": "0.0.14",
+    "react-moment": "^0.8.4",
+    "react-redux": "^5.0.6",
+    "react-responsive-modal": "^3.5.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^1.0.13",
+    "react-toastify": "^4.5.2",
+    "react-web-notification": "^0.5.0",
+    "reactstrap": "^7.1.0",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-to-print": "^2.0.0-alpha-6"
+  }
+}
